@@ -1,0 +1,44 @@
+##################################
+# Python
+##################################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+venv/
+.env.*
+
+##################################
+# Jupyter
+##################################
+.ipynb_checkpoints/
+
+##################################
+# Data (do NOT upload large rasters)
+##################################
+data/raw/
+data/processed/
+
+##################################
+# Outputs
+# Keep figures, ignore everything else
+##################################
+outputs/*
+!outputs/figures/
+!outputs/figures/*.png
+
+##################################
+# Logs / temp
+##################################
+*.log
+*.tmp
+
+##################################
+# OS / Editor
+##################################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
